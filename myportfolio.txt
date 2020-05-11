@@ -1,0 +1,14 @@
+https://ca.finance.yahoo.com/quote/BA?p=BA,10
+https://ca.finance.yahoo.com/quote/SRU-UN.TO?p=SRU-UN.TO,20
+https://ca.finance.yahoo.com/quote/MCHP?p=MCHP,5
+https://ca.finance.yahoo.com/quote/TXN?p=TXN,15
+https://ca.finance.yahoo.com/quote/IRM?p=IRM,10
+https://ca.finance.yahoo.com/quote/IVR?p=IVR,200
+https://ca.finance.yahoo.com/quote/HR-UN.TO?p=HR-UN.TO,8
+https://ca.finance.yahoo.com/quote/RWT?p=RWT,212
+https://ca.finance.yahoo.com/quote/NCLH?p=NCLH,34
+https://ca.finance.yahoo.com/quote/CCL?p=CCL,50
+https://ca.finance.yahoo.com/quote/RVX.TO?p=RVX.TO,47
+https://ca.finance.yahoo.com/quote/CHE-UN.TO?p=CHE-UN.TO,100
+https://ca.finance.yahoo.com/quote/BMO.TO?p=BMO.TO&.tsrc=fin-srch,20
+https://ca.finance.yahoo.com/quote/BPY-UN.TO?p=BPY-UN.TO&.tsrc=fin-srch,10
